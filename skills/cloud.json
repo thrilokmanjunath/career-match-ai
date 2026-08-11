@@ -1,0 +1,7 @@
+{
+  "aws": ["aws", "amazon web services"],
+  "gcp": ["gcp", "google cloud platform", "google cloud"],
+  "azure": ["azure", "microsoft azure"],
+  "docker": ["docker", "containerization"],
+  "kubernetes": ["kubernetes", "k8s"]
+}

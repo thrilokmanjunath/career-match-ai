@@ -1,0 +1,6 @@
+{
+  "sql": ["sql", "mysql", "postgresql", "postgre", "tsql"],
+  "nosql": ["nosql", "mongodb", "mongo", "cassandra", "dynamodb"],
+  "oracle": ["oracle db", "oracle database", "oracle"],
+  "redis": ["redis"]
+}

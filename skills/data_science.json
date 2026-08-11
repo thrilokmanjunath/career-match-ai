@@ -1,0 +1,12 @@
+{
+  "python": ["python", "python3", "python 3"],
+  "r": ["r", "r programming", "r-lang"],
+  "pandas": ["pandas"],
+  "numpy": ["numpy", "np"],
+  "scikit-learn": ["scikit-learn", "sklearn", "scikit learn"],
+  "matplotlib": ["matplotlib"],
+  "seaborn": ["seaborn"],
+  "statistics": ["statistics", "stats", "statistical analysis"],
+  "data analysis": ["data analysis", "data analytics"],
+  "data visualization": ["data visualization", "dataviz"]
+}

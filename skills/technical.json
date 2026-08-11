@@ -1,0 +1,10 @@
+{
+  "java": ["java"],
+  "javascript": ["javascript", "js"],
+  "typescript": ["typescript", "ts"],
+  "c++": ["c++", "cpp"],
+  "c#": ["c#", "csharp"],
+  "go": ["go", "golang"],
+  "html": ["html", "html5"],
+  "css": ["css", "css3"]
+}

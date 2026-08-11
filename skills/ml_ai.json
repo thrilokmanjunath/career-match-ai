@@ -1,0 +1,10 @@
+{
+  "deep learning": ["deep learning", "dl"],
+  "nlp": ["nlp", "natural language processing"],
+  "computer vision": ["computer vision", "cv"],
+  "tensorflow": ["tensorflow", "tf"],
+  "pytorch": ["pytorch", "torch"],
+  "keras": ["keras"],
+  "huggingface": ["huggingface", "transformers"],
+  "llm": ["llm", "large language models", "generative ai", "genai", "gpt"]
+}

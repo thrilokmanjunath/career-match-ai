@@ -1,0 +1,7 @@
+{
+  "git": ["git", "version control", "github", "gitlab", "bitbucket"],
+  "linux": ["linux", "unix", "ubuntu"],
+  "bash": ["bash", "shell scripting", "shell"],
+  "agile": ["agile", "scrum", "kanban"],
+  "jira": ["jira"]
+}
