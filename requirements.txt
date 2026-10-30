@@ -10,3 +10,4 @@ spacy>=3.7.4
 pytest>=8.1.1
 ruff>=0.3.4
 plotly>=5.20.0
+rank-bm25>=0.2.2

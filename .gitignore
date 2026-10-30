@@ -13,3 +13,4 @@ models/job_embeddings.npy
 *.pem
 credentials/
 tokens/
+.venv/
